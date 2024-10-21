@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Javaboiiii
-- 👀 I’m interested in Web Dev, AIML, also in many amazing technology
+- 👀 I’m interested in Web Dev, AIML, CyberSecurity also in many amazing technology
 - 🌱 I’m currently trying many computer vision and machine learning stuffs
 - 📫 Reach me through devrajlokhande1610@gmail.com
 
