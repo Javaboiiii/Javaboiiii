@@ -52,10 +52,12 @@ I'm a passionate developer with a keen interest in AI/ML, cybersecurity, and web
 ---
 
 ### 📫 Reach Me:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+- **Email:** devrajlokhande1610@gmail.com
+- **LinkedIn:** [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/devraj-lokhande-b3b506287/))
+
+---
+Let's collaborate, learn, and build awesome projects together! 💡
 
 ---
 
-Let's collaborate, learn, and build awesome projects together! 💡
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
