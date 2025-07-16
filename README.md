@@ -15,6 +15,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Javaboiiii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Javaboiiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 LeetCode
+<div align="center">
+  <a href="https://leetcode.com/u/devrajlokhande1610/">
+    <img src="https://leetcode.card.workers.dev/glxcier_ae?theme=dark&font=baloo" height="150" />
+  </a>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Javaboiiii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
