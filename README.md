@@ -18,7 +18,7 @@
 ## 📈 LeetCode
 <div align="center">
   <a href="https://leetcode.com/u/devrajlokhande1610/">
-    <img src="https://leetcode.card.workers.dev/glxcier_ae?theme=dark&font=baloo" height="150" />
+    <img src="https://leetcode.card.workers.dev/devrajlokhande1610?theme=dark&font=baloo" height="150" />
   </a>
 </div>
 
